@@ -5,6 +5,7 @@ public class Main {
 		double bmi = weight/(height*height);
 
 		System.out.print(bmi);
+		System.out.print(bmi);
 	
 	}
 }
